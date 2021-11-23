@@ -7,3 +7,18 @@
 body {
   background: #222
 }
+
+.box {
+  background-image: url('watercolor-1321645_1920.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.box h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 5rem;
+  color: aliceblue;
+}
