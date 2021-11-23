@@ -8,6 +8,10 @@ body {
   background: #222
 }
 
+ul {
+  color: aliceblue;
+  list-style: square;
+}
 .box {
   background-image: url('watercolor-1321645_1920.jpg');
   background-size: cover;
