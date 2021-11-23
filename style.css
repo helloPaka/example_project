@@ -7,6 +7,14 @@
 body {
   background: #222
 }
+/* Navigation Component */
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .box {
   background-image: url('watercolor-1321645_1920.jpg');
